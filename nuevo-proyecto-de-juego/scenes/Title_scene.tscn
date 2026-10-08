@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://bpjsoi7yyaw6c"]
+
+[node name="Node2D" type="Node2D" unique_id=1672413026]
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=1143480914]
+offset_right = 1154.0
+offset_bottom = 647.0
+
+[node name="RichTextLabel" type="RichTextLabel" parent="." unique_id=1927981775]
+offset_left = 537.0
+offset_top = 577.0
+offset_right = 1266.0
+offset_bottom = 672.0
+theme_override_font_sizes/normal_font_size = 50
+text = "With a taste of cinnamon"
+fit_content = true
